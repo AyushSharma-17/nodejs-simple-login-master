@@ -5,7 +5,6 @@ Make sure to have mongodb running. Open extra terminal to run node.
 <br>mongod
 
 ```js
-git clone https://github.com/JasonDeving/nodejs-simple-login.git
 npm install
 node app.js
 localhost:3000
